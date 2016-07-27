@@ -131,5 +131,9 @@
       <repositoryKey>SwiftLint</repositoryKey>
       <key>variable_name</key>
     </rule>
+    <rule>
+      <repositoryKey>SwiftLint</repositoryKey>
+      <key>legacy_cggeometry_functions</key>
+    </rule>
   </rules>
 </profile>

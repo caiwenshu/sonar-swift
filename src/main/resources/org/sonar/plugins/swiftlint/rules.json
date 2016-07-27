@@ -222,5 +222,12 @@
         "name": "Variable Name",
         "description": "Variable names should only contain alphanumeric characters and start with a lowercase character or should only contain capital letters. In an exception to the above, variable names may start with a capital letter when they are declared static and immutable. Variable names should not be too long or too short.",
         "severity": "CRITICAL"
+    },
+    {
+        "key": "legacy_cggeometry_functions",
+        "category": "SwiftLint",
+        "name": "Legacy CGGeometry Functions",
+        "description": "Struct extension properties and methods are preferred over legacy functions",
+        "severity": "MINOR"
     }
 ]
